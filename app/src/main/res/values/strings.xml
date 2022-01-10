@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NewsAssignment</string>
+    <string name="title_home">Home</string>
+    <string name="title_news">News</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="welcome">Welcome</string>
+    <string name="category">Category:</string>
+    <string name="log_out">Log out</string>
+    <string name="technology">Technology</string>
+    <string name="sports">Sports</string>
+    <string name="science">Science</string>
+    <string name="health">Health</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="business">Business</string>
+    <string name="general">General</string>
+    <string name="choose_a_category">Choose a category:</string>
+    <string name="news_app">News App</string>
+    <string name="favorite_articles">Favorite Articles:</string>
+    <string name="article_image">Article image</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="title">Title</string>
+    <string name="author">Author:</string>
+    <string name="date">Date:</string>
+    <string name="source">Source: </string>
+    <string name="description">Description</string>
+    <string name="read_the_full_story_here_n">Read the full story here: \n</string>
+</resources>
